@@ -1,5 +1,5 @@
  
- # 🚦 Real-time Dubai Traffic Analysis using Google M 
+ # 🚦 Real-time Dubai Traffic Analysis using Google Map
   ![  Traffic Visualization](google-traffic.jpeg)  
 
 
@@ -18,7 +18,7 @@ A powerful R-based solution for analyzing and visualizing real-time traffic cond
 - **MongoDB integration** for data persistence
 - **Beautiful Leaflet visualizations**
 
-```bash
+
 # Quick install
 git clone https://github.com/bibinprathap/ai-google-traffic-analysis.git
 cd ai-google-traffic-analysis
