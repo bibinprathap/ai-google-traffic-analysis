@@ -1,5 +1,9 @@
  
  # 🚦 Real-time Dubai Traffic Analysis using Google Map
+[![Article](https://bibinprathap.medium.com/unlock-dubais-traffic-secrets-real-time-analysis-with-google-maps-r-07971d9207c8)
+
+
+
   ![  Traffic Visualization](google-traffic.jpeg)  
 
 
