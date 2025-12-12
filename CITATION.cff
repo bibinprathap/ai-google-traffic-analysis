@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated conference paper."
+authors:
+  - family-names: "Prathap"
+    given-names: "Bibin"
+title: "ai-google-traffic-analysis"
+abstract: "Real-time Dubai Traffic Analysis using Google Maps API and R"
+repository-code: "https://github.com/bibinprathap/ai-google-traffic-analysis"
+license: "MIT"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Prathap"
+      given-names: "Bibin"
+  title: "A Data-Driven Framework for Urban Mobility: Real-Time Traffic Analysis in Dubai Using Google Maps API and R"
+  year: 2025
+  collection-title: "2025 19th IEEE International Conference on Application of Information and Communication Technologies (AICT)"
+  conference:
+    name: "2025 19th IEEE International Conference on Application of Information and Communication Technologies (AICT)"
+  url: "https://ieeexplore.ieee.org/document/11268555"
