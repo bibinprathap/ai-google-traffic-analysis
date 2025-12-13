@@ -3,7 +3,7 @@
 [Article](https://bibinprathap.medium.com/unlock-dubais-traffic-secrets-real-time-analysis-with-google-maps-r-07971d9207c8)
 
 [bibinprathap](https://bibinprathap.com)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17913483.svg)](https://doi.org/10.5281/zenodo.17913483)
 
 
   ![  Traffic Visualization](google-traffic.jpeg)  
