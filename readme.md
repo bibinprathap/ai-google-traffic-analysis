@@ -1,7 +1,14 @@
  
- # 🚦 Real-time Dubai Traffic Analysis using Google M 
+ # 🚦 Real-time Dubai Traffic Analysis using Google Map
+[Article](https://bibinprathap.medium.com/unlock-dubais-traffic-secrets-real-time-analysis-with-google-maps-r-07971d9207c8)
+
+[bibinprathap](https://bibinprathap.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17913483.svg)](https://doi.org/10.5281/zenodo.17913483)
+
+
   ![  Traffic Visualization](google-traffic.jpeg)  
 
+# Whatsapp [wa.me/917994671704](http://wa.me/917994671704) 
 
 [![GitHub stars](https://img.shields.io/github/stars/bibinprathap/ai-google-traffic-analysis.svg?style=social)](https://github.com/bibinprathap/ai-google-traffic-analysis/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -18,7 +25,7 @@ A powerful R-based solution for analyzing and visualizing real-time traffic cond
 - **MongoDB integration** for data persistence
 - **Beautiful Leaflet visualizations**
 
-```bash
+
 # Quick install
 git clone https://github.com/bibinprathap/ai-google-traffic-analysis.git
 cd ai-google-traffic-analysis
